@@ -6,13 +6,13 @@ local step;
 
 if not settings then
     settings = {
-    ["State"] = false;
-    ["key"] = "B";
-    ["Part"] = "Head";
-    ["Mode"] = "Switch";
-    ["TeamCheck"] = true;
-    ["Distance"] = 500;
-};
+        ["State"] = false;
+        ["key"] = "B";
+        ["Part"] = "Head";
+        ["Mode"] = "Switch";
+        ["TeamCheck"] = true;
+        ["Distance"] = 500;
+    };
 end;
    
 
